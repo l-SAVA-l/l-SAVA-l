@@ -38,8 +38,6 @@
 
 ### 📈 Статистика GitHub
 
-![Metrics](https://metrics.lecoq.io/ТВОЙ_ЛОГИН?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata)
-
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_ЛОГИН&show_icons=true&theme=transparent" alt="GitHub Stats" width="400"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_ЛОГИН&layout=compact&theme=transparent" alt="Top Languages" width="300"/>
